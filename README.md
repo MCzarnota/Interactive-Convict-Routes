@@ -1,8 +1,8 @@
 <h1 align="center">
-To do list web app with MaterialUI
+The Interactive Convict Routes
 </h1>
 <p align="center">
-MongoDB, Expressjs, React/Redux, Nodejs, MaterialUI
+Vanilla JS
 </p>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
